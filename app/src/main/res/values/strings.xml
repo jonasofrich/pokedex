@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="random_screen_label">Random</string>
+    <string name="explore_screen_label">Explore</string>
+    <string name="favorites_screen_label">Favorites</string>
+    <string name="back">Back</string>
+    <string name="error_not_found">Error: Pokemon not found.</string>
+    <string name="height_cm">Height: %1$s cm</string>
+    <string name="weight_kg">Weight: %1$s kg</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="add_to_favorites">Add to favorites</string>
+</resources>
